@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.chrome.service import Service
 import unittest
 import time #Se deja la modulo de "time" para validar cada test por medio de la funcion "time.sleep"
 
