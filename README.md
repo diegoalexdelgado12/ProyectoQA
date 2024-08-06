@@ -12,7 +12,7 @@ con su inicio de sesion del usuario nuevo, realizando validacion de los mismos c
 ##instlacion de libreria selenium usar comando en la terminal:
 -pip install selenium (se utiliza "pip" ya que esta en lenguaje python).
 
-## tener presente que las versiones fueron con las que se realizo el Script.
+##tener presente que las versiones fueron con las que se realizo el Script.
 
 ##librerias:
 
